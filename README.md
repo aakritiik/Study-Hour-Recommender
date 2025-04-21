@@ -14,7 +14,4 @@ Welcome to the **Study Hour Recommender**, a machine learning-powered app design
 ## 🚀 Try it Locally
 
 ```bash
-git clone https://github.com/yourusername/study-hour-recommender.git
-cd study-hour-recommender
-pip install -r requirements.txt
 streamlit run study_hour_app.py
