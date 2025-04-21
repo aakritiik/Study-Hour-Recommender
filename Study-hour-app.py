@@ -7,7 +7,7 @@
 import pandas as pd
 
 # Loading the dataset
-df = pd.read_csv("/Users/aakritibliss/Desktop/student-scores.csv")
+df = pd.read_csv("student-scores.csv")
 
 # Creating average score per subject to find weak areas
 subject_cols = ['math_score', 'history_score', 'physics_score',
