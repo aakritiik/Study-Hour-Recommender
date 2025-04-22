@@ -3,8 +3,9 @@
 Welcome to the **Study Hour Recommender**, a machine learning-powered app designed to recommend ideal weekly self-study hours for students based on their academic scores, lifestyle, and behavior! 
 
 App preview
-<img width="1680" alt="image" src="https://github.com/user-attachments/assets/6c297b31-d3ee-4fa2-8e3e-9de69525cf75" />
-<img width="1680" alt="image" src="https://github.com/user-attachments/assets/23750900-fb77-451c-b600-b65f9c046253" />
+<img width="1659" alt="image" src="https://github.com/user-attachments/assets/98744931-747c-4834-885e-375191ab210e" />
+<img width="1680" alt="image" src="https://github.com/user-attachments/assets/b14d9248-8ea1-4707-b62e-72c91d5a320d" />
+
 
 
 
